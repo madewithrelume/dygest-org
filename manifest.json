@@ -1,0 +1,74 @@
+{
+  "background_color": "#ffffff",
+  "description": "A powerful platform-enabled service designed to provide young people with personal life and professional, and tech-oriented skills, experience and resources for...",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "The Notebook Project",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "The Notebook Project",
+  "start_url": "https://notebook.africa/",
+  "theme_color": "#ffffff",
+  "categories": ["books", "education"],
+  "screenshots": [
+    {
+      "src": "https://notebook.africa/screenshot_1.png",
+      "sizes": "1280x800",
+      "type": "image/png"
+    },
+    {
+      "src": "https://notebook.africa/screenshot_2.png",
+      "sizes": "750x1334",
+      "type": "image/png"
+    }
+  ],
+  "icons": [
+ {
+  "src": "https://notebook.africa/Notebook-Icon.png",
+  "sizes": "144x144",
+  "type": "image/png",
+  "purpose": "maskable"
+},    
+
+{
+            "src": "https://notebook.africa/Notebook-Icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://notebook.africa/Notebook-Icon.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "https://notebook.africa/Notebook-Icon.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "https://notebook.africa/Notebook-Icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+  ],
+  "shortcuts": [
+{
+"name": "Books",
+"description": "Check out the latest book recommendations.",
+"src": "/library"
+},
+
+{
+"name": "Courses",
+"description": "Check out the latest book recommendations.",
+"src": "/courses"
+},
+
+{
+"name": "Tutorials",
+"description": "Check out the latest book recommendations.",
+"src": "/resources"
+}
+
+]
+}
